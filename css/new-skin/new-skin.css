@@ -696,7 +696,7 @@ input[type="file"] {
 	}
 	.header .top-menu ul {
 		/* background: #fff; */
-		background: rgba(255, 255, 255, 0);
+		background: rgb(48 48 58);
 	}
 }
 
